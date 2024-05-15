@@ -1,5 +1,5 @@
 # Hello, I'm Denerrick
-<a href="https://linkedin.com/denerrickforbes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/denerrickforbes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 A decade-long career as a plumbing contractor and a lifelong passion for puzzles and problem-solving have piqued my desire to apply my skills to the cybersecurity world.
 
