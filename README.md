@@ -99,4 +99,4 @@ A decade-long career as a plumbing contractor and a lifelong passion for puzzles
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- [Malware Compromise](https://github.com/zerothegreat1/BTLO/tree/main/Network%20Analysis%20-%20Malware%20Compromise)
+- [Malware Compromise](https://github.com/zerothegreat1/BTLO.git)
