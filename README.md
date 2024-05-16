@@ -16,7 +16,7 @@ A decade-long career as a plumbing contractor and a lifelong passion for puzzles
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-|Network Traffic Analysis                       |<a href="https://github.com/zerothegreat1/BTLO/tree/main/Network%20Analysis%20-%20Malware%20Compromise">Malware Compromise</a>|
+|Network Traffic Analysis                       |[Malware Compromise](https://github.com/zerothegreat1/BTLO.git)|
 ## Tools
 
 ### Network
