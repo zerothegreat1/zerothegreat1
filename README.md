@@ -56,6 +56,8 @@ A decade-long career as a plumbing contractor and a lifelong passion for puzzles
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Spyder-FF0000?&style=for-the-badge&logo=Spyder%20IDE&logoColor=white" />
      <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?&style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMWare-607078?&style=for-the-badge&logo=VMWare&logoColor=white" />
 
 </div>
 
