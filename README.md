@@ -17,6 +17,7 @@ A decade-long career as a plumbing contractor and a lifelong passion for puzzles
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 |Network Traffic Analysis                       |[Malware Compromise](https://github.com/zerothegreat1/BTLO.git)|
+|Phishing Kit Analysis                          |[Phishing Kit Analysis](https://github.com/zerothegreat1/CyberDefenders.git)|
 ## Tools
 
 ### Network
@@ -100,3 +101,4 @@ A decade-long career as a plumbing contractor and a lifelong passion for puzzles
 - Detection Lab
 - SOC Automation Project
 - [Malware Compromise](https://github.com/zerothegreat1/BTLO.git)
+- [Phishing Kit Analysis](https://github.com/zerothegreat1/CyberDefenders.git)
