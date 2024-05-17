@@ -6,7 +6,6 @@ A decade-long career as a plumbing contractor and a lifelong passion for puzzles
 ## Objective
 A decade-long career as a plumbing contractor and a lifelong passion for puzzles and problem-solving have piqued my desire to apply my skills to the cybersecurity world.
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -51,7 +50,6 @@ A decade-long career as a plumbing contractor and a lifelong passion for puzzles
     <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
 
-
 ### Scripting and Development
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
@@ -61,7 +59,6 @@ A decade-long career as a plumbing contractor and a lifelong passion for puzzles
     <img src="https://img.shields.io/badge/-VMWare-607078?&style=for-the-badge&logo=VMWare&logoColor=white" />
 
 </div>
-
 
 ### Vulnerability Management and Assessment
 <div>
@@ -84,7 +81,6 @@ A decade-long career as a plumbing contractor and a lifelong passion for puzzles
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
 
 </div>
-
 
 ## Certifications
 <div>
