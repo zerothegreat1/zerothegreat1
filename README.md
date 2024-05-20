@@ -4,7 +4,7 @@
 A decade-long career as a plumbing contractor and a lifelong passion for puzzles and problem-solving have piqued my desire to apply my skills to the cybersecurity world.
 
 ## Objective
-A decade-long career as a plumbing contractor and a lifelong passion for puzzles and problem-solving have piqued my desire to apply my skills to the cybersecurity world.
+Transitioning from a decade-long career in problem-solving to cybersecurity, aiming to enhance threat detection, incident response, and security automation skills to protect and secure organizations.
 ## Skills
 
 | Skill                                         | Associated Project         |
