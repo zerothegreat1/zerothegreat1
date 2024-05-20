@@ -1,10 +1,11 @@
 # Hello, I'm Denerrick
 <a href="https://linkedin.com/in/denerrickforbes"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A decade-long career as a plumbing contractor and a lifelong passion for puzzles and problem-solving have piqued my desire to apply my skills to the cybersecurity world.
+Experienced problem-solver transitioning from a decade in plumbing to cybersecurity. Skilled in threat detection, incident response, and security automation. Passionate about enhancing organizational security through continuous learning and hands-on projects. Ready to be a valuable asset to any cybersecurity team.
 
 ## Objective
-Transitioning from a decade-long career in problem-solving to cybersecurity, aiming to enhance threat detection, incident response, and security automation skills to protect and secure organizations.
+Transitioning from a decade of hands-on problem-solving as a plumbing contractor to a dedicated career in cybersecurity. Passionate about leveraging skills in threat detection, incident response, and security automation to protect and secure organizations as a SOC Analyst. Committed to continuous learning and bringing a unique perspective to cybersecurity challenges.
+
 ## Skills
 
 | Skill                                         | Associated Project         |
