@@ -92,6 +92,8 @@ Transitioning from a decade of hands-on problem-solving as a plumbing contractor
 <img src="https://img.shields.io/badge/-Wireshark%20for%20Basic%20Network%20Security%20Analysis-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Wireshark%20for%20Beginners:%20Capture%20Packets-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-IBM%20IT%20Fundamentals%20for%20Cybersecurity%20Specialization-0057B8?&style=for-the-badge&logo=IBM&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FEMA%20IS%20100.c-6C757D?&style=for-the-badge&logo=FEMA&logoColor=white" />
+<img src="https://img.shields.io/badge/-FEMA%20IS%20700.b-6C757D?&style=for-the-badge&logo=FEMA&logoColor=white" />
 </div>
 
 ## Projects
