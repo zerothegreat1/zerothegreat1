@@ -77,6 +77,7 @@ Transitioning from a decade of hands-on problem-solving as a plumbing contractor
 ### Operating Systems and Tools
 <div>
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0085C3?&style=for-the-badge&logo=Cisco&logoColor=white" />
      <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
