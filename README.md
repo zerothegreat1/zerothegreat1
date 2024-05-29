@@ -40,15 +40,11 @@ Transitioning from a decade of hands-on problem-solving as a plumbing contractor
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### SIEM and Log Management
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
-
 ### Cloud Platforms
 <div>
     <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+
 </div>
 
 ### Scripting and Development
@@ -58,6 +54,7 @@ Transitioning from a decade of hands-on problem-solving as a plumbing contractor
      <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
         <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?&style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMWare-607078?&style=for-the-badge&logo=VMWare&logoColor=white" />
+<img src="https://img.shields.io/badge/-Jupyter%20Notebooks-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
 </div>
 
@@ -66,6 +63,8 @@ Transitioning from a decade of hands-on problem-solving as a plumbing contractor
     <img src="https://img.shields.io/badge/-Snyk-4B32C3?&style=for-the-badge&logo=Snyk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys-DC3E12?&style=for-the-badge&logo=Qualys&logoColor=white" />
     <img src="https://img.shields.io/badge/-Virus%20Total-394EFF?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
+
 </div>
 
 ### Case Management and Incident Response
@@ -81,6 +80,7 @@ Transitioning from a decade of hands-on problem-solving as a plumbing contractor
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-0085C3?&style=for-the-badge&logo=Cisco&logoColor=white" />
      <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
 
 </div>
 
